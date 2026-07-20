@@ -1,4 +1,4 @@
-public class comparsion{
+public class comparison{
     
     public static void main(String args[]){
         String str ="Vaibhavi";
