@@ -12,7 +12,8 @@ public class printv{
         return count;
     }
     public static void main (String args []){
-        String s = "Vaibhavi Is a very nice girl ";
+        String s = "It is raining heavily outside"; // 12
+
         System.out.println("Number of vowels:" +  vowels(s));
     }
     
